@@ -23,7 +23,7 @@ class Program
         char char1 = 'A';
 
         //Lag et Array av datatypen integer og skriv ut verdiene med en vanlig for-løkke
-        int[] tabell1 = { 37, 82, 54, 19, 63, 91, 27, 48, 75, 11, 8, 62, 23, 94, 36, 58, 50, 64, 77, 10 };
+        int[] tabell1 = {37, 82, 54, 19, 63, 91, 27, 48, 75, 11, 8, 62, 23, 94, 36, 58, 50, 64, 77, 10};
 
         for (int i = 0; i < tabell1.Length; i++)
         {
