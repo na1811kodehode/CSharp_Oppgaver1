@@ -84,6 +84,9 @@ class Program
 
         ////Lag en metode av typen string som skrive ut en liten hilsen til brukeren ved å bruke en parametervariabel.
         Console.WriteLine(Greetings("Nasir"));
+        
+        //Lag en enkel Random Number Generator metode som returnerer et tilfeldig tall
+        Console.WriteLine($"Tilfeldig tall: {RandomNum()}");
 
     }
     public static double Calculate(int a, int b)
@@ -94,5 +97,22 @@ class Program
     public static string Greetings(string navn)
     {
         return $"Hei, {navn}!";
+    }
+
+
+    public static int RandomNum() 
+    {
+        Console.WriteLine("Skriv inn minimum rekkevidde");
+        string? stringMinRange = Console.ReadLine();
+        int minRange = Convert.ToInt32(stringMinRange);
+
+        Console.WriteLine("Skriv inn maksimum rekkevidde");
+        string? stringMaksRange = Console.ReadLine();
+        int maksRange = Convert.ToInt32(stringMaksRange);
+
+        Random tilfeldig = new Random();
+
+        return tilfeldig.Next(minRange, maksRange);
+
     }
 }
