@@ -1,0 +1,14 @@
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\bin\Debug\net8.0\CSharp_Oppgaver.exe
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\bin\Debug\net8.0\CSharp_Oppgaver.deps.json
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\bin\Debug\net8.0\CSharp_Oppgaver.runtimeconfig.json
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\bin\Debug\net8.0\CSharp_Oppgaver.dll
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\bin\Debug\net8.0\CSharp_Oppgaver.pdb
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.AssemblyInfoInputs.cache
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.AssemblyInfo.cs
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.csproj.CoreCompileInputs.cache
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.dll
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\refint\CSharp_Oppgaver.dll
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.pdb
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.genruntimeconfig.cache
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\ref\CSharp_Oppgaver.dll
