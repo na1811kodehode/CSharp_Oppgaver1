@@ -12,3 +12,4 @@ C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\refint\CS
 C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.pdb
 C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.genruntimeconfig.cache
 C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\ref\CSharp_Oppgaver.dll
+C:\Users\PodiumKurs\OneDrive\kodehode\CSharp_Oppgaver\obj\Debug\net8.0\CSharp_Oppgaver.sourcelink.json

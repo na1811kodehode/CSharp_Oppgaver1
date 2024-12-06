@@ -93,6 +93,6 @@ class Program
 
     public static string Greetings(string navn)
     {
-        return $"Hei, {navn} {Emoji.Blush}";
+        return $"Hei, {navn}!";
     }
 }
